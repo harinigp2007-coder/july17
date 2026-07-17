@@ -1,4 +1,4 @@
-java
+jdk
 python
 dsa
 1709
